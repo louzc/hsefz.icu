@@ -1,11 +1,6 @@
 # hsefz.icu
 
-由于周所周知的原因，efz的网站域名有一点点小问题，比如官网[hsefz.cn](hsefz.cn)、邮箱[mail.hsefz.cn](mail.hsefz.cn),有时不能很方便地访问。
-
-
-<img src="https://user-images.githubusercontent.com/63027469/189476759-ede8eab2-03be-43e1-b3fc-de5c4abf84b8.png" width="75%">
-
-所以，我注册了hsefz.icu，现在只需要访问[hsefz.icu](hsefz.icu)就可以自动跳转到相关的网站。
+现在只需要访问[hsefz.icu](hsefz.icu)就可以自动跳转到学校网站。
 
 |站点|访问域名|重定向至|
 |  ----  | ----  | ---- |
@@ -13,6 +8,11 @@
 |紫竹|[zz.hsefz.icu](http://zz.hsefz.icu)|[https://www.hsefzcz.com](https://www.hsefzcz.com/SeniorSchool/home/index)|
 |邮箱|[m.hsefz.icu](http://m.hsefz.icu)或[mail.hsefz.icu](http://mail.hsefz.icu)|[https://mail.hsefz.cn](https://mail.hsefz.cn/owa/auth/logon.aspx?replaceCurrent=1&url=https%3a%2f%2fmail.hsefz.cn%2fowa)|
 |选课|[c.hsefz.icu](http://c.hsefz.icu)或[course.hsefz.icu](http://course.hsefz.icu)|[http://course.hsefz.cn](http://course.hsefz.cn)
+
+这是由于周所周知的原因，efz的网站域名有一点点小问题，比如官网[hsefz.cn](hsefz.cn)、邮箱[mail.hsefz.cn](mail.hsefz.cn),有时不能很方便地访问。
+
+
+<img src="https://user-images.githubusercontent.com/63027469/189476759-ede8eab2-03be-43e1-b3fc-de5c4abf84b8.png" width="75%">
 
 如果还有相关的需求，可以在这里发issue。
 
