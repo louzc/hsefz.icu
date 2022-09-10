@@ -1,6 +1,6 @@
 # hsefz.icu
 
-由于周所周知的原因，efz的网站域名有一点点小问题，比如官网[hsefz.cn](hsefz.cn)、[邮箱mail.hsefz.cn](mail.hsefz.cn),有时不能很方便地访问。
+由于周所周知的原因，efz的网站域名有一点点小问题，比如官网[hsefz.cn](hsefz.cn)、邮箱[mail.hsefz.cn](mail.hsefz.cn),有时不能很方便地访问。
 
 
 <img src="https://user-images.githubusercontent.com/63027469/189476759-ede8eab2-03be-43e1-b3fc-de5c4abf84b8.png" width="75%">
