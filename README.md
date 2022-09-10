@@ -1,6 +1,6 @@
 # hsefz.icu
 
-现在只需要访问[hsefz.icu](hsefz.icu)就可以自动跳转到学校网站。
+现在只需要访问[hsefz.icu](http://hsefz.icu)就可以自动跳转到学校网站。
 
 |站点|访问域名|重定向至|
 |  ----  | ----  | ---- |
