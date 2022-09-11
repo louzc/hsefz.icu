@@ -11,7 +11,7 @@
 |社团|[st.hsefz.icu](http://st.hsefz.icu)或[club.hsefz.icu](http://club.hsefz.icu)|1.116.185.61|
 |慕课|[mooc.hsefz.icu](http://mooc.hsefz.icu)|[https://gzmooc-smile.shec.edu.cn/mooc/schoolIndex.action?param=2795&rsm=a7f592cef8b130a6967a90617db5681b/](gzmooc-smile.shec.edu.cn)|
 
-这是由于周所周知的原因，efz的网站域名有一点点小问题，比如官网[hsefz.cn](hsefz.cn)、邮箱[mail.hsefz.cn](mail.hsefz.cn),有时不能很方便地访问。
+这是由于周所周知的原因，efz的网站域名有一点点小问题，比如官网[hsefz.cn](http://hsefz.cn)、邮箱[mail.hsefz.cn](https://mail.hsefz.cn),有时不能很方便地访问。
 
 
 <img src="https://user-images.githubusercontent.com/63027469/189476759-ede8eab2-03be-43e1-b3fc-de5c4abf84b8.png" width="75%">
